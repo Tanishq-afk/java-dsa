@@ -12,6 +12,7 @@ public class BubbleSort {
                     arr[i-1] = arr[i];
                     arr[i] = temp;
                     swapped = true;
+                    //dev changes
                 }
             }
             if(!swapped) {
