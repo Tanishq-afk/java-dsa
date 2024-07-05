@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f2d4361e-a729-4aca-b539-fe692530432c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +112,7 @@
     "Application.TilesOccurrence.executor": "Run",
     "Application.VowelConsonant.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "dev",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/tanishqsachdev/Desktop/sample/intelijProject/untitled/src/Main.java"
   }
