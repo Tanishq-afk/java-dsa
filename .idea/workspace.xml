@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2d4361e-a729-4aca-b539-fe692530432c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/CircleAreaCircumference.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Fibonacci.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Largest.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2guaFxwuOG80hZ7itB2fXpkqZ7O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ASCII.executor": "Run",
+    "Application.Area.executor": "Run",
+    "Application.Armstrong.executor": "Run",
+    "Application.AverageOfN.executor": "Run",
+    "Application.BestSubArrayInteger.executor": "Run",
+    "Application.BestSubarray.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.Ceiling.executor": "Run",
+    "Application.CircleAreaCircumference.executor": "Run",
+    "Application.CompoundInterest.executor": "Run",
+    "Application.Count.executor": "Run",
+    "Application.Currency.executor": "Run",
+    "Application.ElectricityBill.executor": "Run",
+    "Application.EligibleAge.executor": "Run",
+    "Application.EndlessAdd.executor": "Run",
+    "Application.EvenDayOut.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Factors.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.Floor.executor": "Run",
+    "Application.HCF.executor": "Run",
+    "Application.HCFandLCM.executor": "Run",
+    "Application.Histogram.executor": "Run",
+    "Application.Interest.executor": "Run",
+    "Application.Largest.executor": "Run",
+    "Application.LargestEndless.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.Main.executor": "Debug",
+    "Application.MainWow.executor": "Run",
+    "Application.MaxMin.executor": "Run",
+    "Application.MaxSumSubArray.executor": "Run",
+    "Application.MilkMan.executor": "Run",
+    "Application.ModifyString.executor": "Run",
+    "Application.NCR.executor": "Run",
+    "Application.Name.executor": "Run",
+    "Application.NewPattern.executor": "Run",
+    "Application.NewPattern2.executor": "Run",
+    "Application.NewPattern3.executor": "Run",
+    "Application.OddEven.executor": "Run",
+    "Application.Operators.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.Pattern.executor": "Run",
+    "Application.Pattern1.executor": "Run",
+    "Application.PatternExample.executor": "Run",
+    "Application.PatternExample2.executor": "Run",
+    "Application.PerfectNumber.executor": "Run",
+    "Application.Perimeter.executor": "Run",
+    "Application.Pivot.executor": "Run",
+    "Application.PlusOne.executor": "Run",
+    "Application.PrimeOrNot.executor": "Run",
+    "Application.Primitives.executor": "Run",
+    "Application.PythagoreanTriplet.executor": "Run",
+    "Application.RangeStartEnd.executor": "Run",
+    "Application.Reverse.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.RotatedArrayCount.executor": "Run",
+    "Application.SampleInt.executor": "Run",
+    "Application.Shuffle.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.Solve.executor": "Run",
+    "Application.SplitArray.executor": "Run",
+    "Application.SubProSum.executor": "Run",
+    "Application.SumMethod.executor": "Run",
+    "Application.SumNegativePositive.executor": "Run",
+    "Application.SumOfSubarrays.executor": "Run",
+    "Application.SumOfTriplets.executor": "Run",
+    "Application.TestSTRING.executor": "Run",
+    "Application.TileArrangement.executor": "Run",
+    "Application.TileFormation.executor": "Run",
+    "Application.TileMinimumCount.executor": "Run",
+    "Application.TilesOccurrence.executor": "Run",
+    "Application.VowelConsonant.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/tanishqsachdev/Desktop/sample/intelijProject/untitled/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="EligibleAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EligibleAge" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern1" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TileArrangement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TileArrangement" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TileMinimumCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TileMinimumCount" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EligibleAge" />
+        <item itemvalue="Application.Pattern1" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.TileMinimumCount" />
+        <item itemvalue="Application.TileArrangement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2d4361e-a729-4aca-b539-fe692530432c" name="Changes" comment="" />
+      <created>1716549822719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716549822719</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
